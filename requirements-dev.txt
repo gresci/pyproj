@@ -1,4 +1,4 @@
-cython>=0.28.4
+cython==0.29.36
 black; python_version >= '3.6'
 flake8
 mock
